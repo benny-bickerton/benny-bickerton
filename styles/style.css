@@ -1,0 +1,44 @@
+html {
+  font-family: "Lexend", serif;
+  background-color: #575251;
+  color: #ffffff;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+}
+
+h1 {
+  font-size: 60px;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 3px 3px 1px black;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+}
+
+a {
+  color: #7288b5;
+  font-size: 18px;
+}
+
+a:hover {
+  color: #dcd6c3;
+}
